@@ -53,7 +53,8 @@ Variable Descriptiva: NombreReunion.
 <img width="1469" height="723" alt="image" src="https://github.com/user-attachments/assets/113f87d8-4177-4714-921f-84cc374076d1" />
 
 
-<img width="1626" height="921" alt="image" src="https://github.com/user-attachments/assets/415b0eea-46cd-48f6-a2df-c7dcaa705b25" />
+<img width="1279" height="614" alt="image" src="https://github.com/user-attachments/assets/534a8aeb-51f6-44a9-a614-a25387c779eb" />
+
 
 ### QUERYS
 <img width="1067" height="743" alt="image" src="https://github.com/user-attachments/assets/11ebfd86-8a3e-4b61-b222-813ff3e20465" />
