@@ -1,12 +1,21 @@
-# bigdata_Bloque2_2025
-# Act1_big_data
+## Act1_big_data
+
+## Autores
 Guillermo León Loaiza Mesa.
 
 Robinson Marin Morales.
 
+Materia: Big Data
+Institución: IUDigital de Antioquia
+Docente: Andres Felipe Callejas  Jaramillo
+Plataforma: Databricks free edition
+
 Ruta Data set: https://www.kaggle.com/datasets/dansbecker/powerlifting-database?resource=download
 
-Problema: somos la empresa Romen de powerlifting, dedicados a entender el panorama competitivo global para planificar su expansión y estrategia de eventos. 
+Ruta Databricks: https://dbc-2c10204f-96c0.cloud.databricks.com/editor/notebooks/1545643167989994?o=3299575563036138#command/6792127430818917 
+
+## Descripción del proyecto
+Problema: la empresa Romen de powerlifting, dedicada a entender el panorama competitivo global para planificar su expansión y estrategia de eventos. 
 
 Qué (La necesidad): Identificar patrones y tendencias en la organización de competiciones de powerlifting. Específicamente, necesitan saber dónde (países, estados) se concentran los eventos, cuándo (evolución temporal, estacionalidad) ocurren y quién (federaciones) domina el mercado en distintas regiones.
 
@@ -20,7 +29,7 @@ Visualizar geográficamente las "zonas calientes" (países/estados con más comp
 
 Segmentar el mercado por federación para analizar la cuota de mercado y la competencia regional.
 
-###Variables Relevantes.
+### Variables Relevantes.
 
 Variables de Identificación: IdEncuentro, rutaEncuentro.
 
