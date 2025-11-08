@@ -32,6 +32,10 @@ Variables Geográficas: PaisEncuentro, estadoEncuentro, ciudadEncuentro.
 
 Variable Descriptiva: NombreReunion.
 
+### Modelo ER 
+<img width="1250" height="872" alt="image" src="https://github.com/user-attachments/assets/aeb3a9cd-25f1-4713-a2d7-0e1cb208a5f5" />
+
+
 ### Evidencia de carga.
 
 <img width="1437" height="676" alt="image" src="https://github.com/user-attachments/assets/0d5f8358-57dc-423e-a708-0ab6944d209f" />
