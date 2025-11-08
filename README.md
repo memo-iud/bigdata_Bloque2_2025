@@ -34,20 +34,25 @@ Variable Descriptiva: NombreReunion.
 
 ### Evidencia de carga.
 
-<img width="955" height="438" alt="image" src="https://github.com/user-attachments/assets/41780071-8568-4fb5-aef1-b662441e7739" />
+<img width="1437" height="676" alt="image" src="https://github.com/user-attachments/assets/0d5f8358-57dc-423e-a708-0ab6944d209f" />
 
-<img width="965" height="339" alt="image" src="https://github.com/user-attachments/assets/03e12c8c-3f8a-4463-8d19-c727f93c7526" />
 
-<img width="957" height="209" alt="image" src="https://github.com/user-attachments/assets/3ee8f8ca-948f-4834-a2ba-5e91ccb1f118" />
+<img width="1469" height="723" alt="image" src="https://github.com/user-attachments/assets/113f87d8-4177-4714-921f-84cc374076d1" />
+
+
+<img width="1626" height="921" alt="image" src="https://github.com/user-attachments/assets/415b0eea-46cd-48f6-a2df-c7dcaa705b25" />
 
 ### QUERYS
-<img width="957" height="209" alt="image" src="https://github.com/user-attachments/assets/3ee8f8ca-948f-4834-a2ba-5e91ccb1f118" />
-Se evidencia que nuestra tabla linguistic_diversity tiene una totalidad de 386414 registros cargados.
+<img width="1067" height="743" alt="image" src="https://github.com/user-attachments/assets/11ebfd86-8a3e-4b61-b222-813ff3e20465" />
 
 
-<img width="674" height="310" alt="image" src="https://github.com/user-attachments/assets/02c0f1a7-f0d9-4700-9aaf-1017396f23fc" />
+Se evidencia que nuestra tabla competidor_powerlifting tiene una totalidad de 8432 registros cargados.
+
+
+<img width="1186" height="860" alt="image" src="https://github.com/user-attachments/assets/f5547c8d-7ff9-48f8-971b-88ba249caa96" />
 Se evidencia el nombre de las columnas, su tipo de dato y una breve descripción de su contenido.
 
 
-<img width="955" height="438" alt="image" src="https://github.com/user-attachments/assets/41780071-8568-4fb5-aef1-b662441e7739" />
+<img width="1620" height="890" alt="image" src="https://github.com/user-attachments/assets/f6f88fd7-f9b6-4b39-a37d-e2f36c119005" />
+
 Podemos evidenciar como hacemos una consulta con filtrado a una tabla.
