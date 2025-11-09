@@ -52,7 +52,8 @@ El dataset contiene miles de registros (más de **8.400 eventos**). El análisis
 ## 🧱 Modelo Entidad-Relación  
 
 📌 **Modelo ER:**  
-<img width="1250" height="872" alt="Modelo ER" src="https://github.com/user-attachments/assets/aeb3a9cd-25f1-4713-a2d7-0e1cb208a5f5" />
+<img width="914" height="719" alt="Captura de pantalla 2025-11-08 a las 8 26 42 p m" src="https://github.com/user-attachments/assets/10727165-3312-476b-9a7c-1c937c607de9" />
+
 
 ---
 
