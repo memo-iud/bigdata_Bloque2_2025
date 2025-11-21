@@ -93,3 +93,80 @@ encuentro_competidor_powerlifting: Esta es la tabla de unión que implementa la 
 Se completó con éxito el pipeline de ingesta de datos. Los archivos CSV de origen se han extraído, transformado y cargado en un Data Warehouse estructurado en Databricks, basado en el modelo Entidad-Relación.
 
 Las tablas encuentro, competidor_powerlifting, están pobladas y operativas, como lo demuestran las consultas SQL. El proyecto establece una base de datos robusta (fuente única de verdad), que ahora está lista para ser consumida por herramientas de analítica y Business Intelligence para la toma de decisiones estratégicas.
+---
+###   📊 ACTIVIDAD 2
+
+## 🧱 Diseño Schema del proyeco
+
+<img width="1045" height="727" alt="catalogo" src="https://github.com/user-attachments/assets/c3dce495-c62b-45d6-af23-11b2743309d7" />
+
+Se puede apresiar el Metastore, catalogo, el Schema, tablas, con sus atributos y tipo de dato.
+
+--
+## 🧠 Levantar un servidor en databricks
+
+loqin en databricks, en el menu principal ingresamos a (compute) para crear una capacidad de computo (create compute), levantar un nodo de un servidor, (databricks runtime version) despliega una ventana emergente procedemos a darle un nombre,luego defino el tipo de cluster a levantar Standar o Machime learning
+
+<img width="1065" height="868" alt="comp" src="https://github.com/user-attachments/assets/225a24f0-d885-4b58-9f87-535b08879b97" />
+
+Standar que tenga Scala(el environment del servidor va ser java), recomendado escoger las que tienen LTS(Last Time Support)servidor de soporte largo.
+ML(Machime learning) el cual tiene las librerias y todas las configuraciones de ML para procesamiento distribuido.
+
+<img width="661" height="490" alt="MLpng" src="https://github.com/user-attachments/assets/943d0edf-3058-499d-bf6f-082f74323dff" />
+
+el sistema proporciona 15GB de almacenamiento finalizamos con click en (Create Compute)
+
+<img width="1286" height="251" alt="servidor" src="https://github.com/user-attachments/assets/d30d3846-bf02-4eb9-afc0-69bf56b760d2" />
+--
+
+## 📊 Se crea el Catalogo, Schema y tablas 
+
+<img width="1303" height="787" alt="image" src="https://github.com/user-attachments/assets/6b3330ea-4576-4853-9174-d5bc11ead746" />
+
+--
+## 📥 Evidencia de carga de datos  
+
+<img width="1310" height="759" alt="image" src="https://github.com/user-attachments/assets/0266b823-ee60-4ab8-84f1-b414c4f698d4" />
+
+--
+## 🧮 Show create table, describe table
+
+<img width="1082" height="851" alt="image" src="https://github.com/user-attachments/assets/974bb4b0-de94-46ae-bcf1-6edc49638671" />
+
+--
+
+## 📊 select
+
+<img width="1302" height="465" alt="image" src="https://github.com/user-attachments/assets/eb35bf77-08cf-4d42-a7bd-5e64fe38e191" />
+
+--
+## 🧾 insert into
+
+<img width="1307" height="554" alt="image" src="https://github.com/user-attachments/assets/1ff80a11-8bea-492c-8903-9664e47dac5e" />
+
+--
+## 📌 select con filtro
+
+<img width="1311" height="692" alt="image" src="https://github.com/user-attachments/assets/deaff1d3-95f2-463b-a3f5-83b6a9f79334" />
+
+--
+## 🧠 select from group by
+
+<img width="1129" height="504" alt="image" src="https://github.com/user-attachments/assets/ff819629-bba6-4a04-bc51-1767700fb603" />
+
+--
+### ✅ Spark vs SQL
+
+<img width="799" height="680" alt="image" src="https://github.com/user-attachments/assets/d9305f0a-b87b-4a23-98b6-05273643ab7a" />
+
+
+
+
+
+
+
+
+
+
+  
+
