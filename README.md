@@ -159,6 +159,54 @@ el sistema proporciona 15GB de almacenamiento finalizamos con click en (Create C
 
 <img width="799" height="680" alt="image" src="https://github.com/user-attachments/assets/d9305f0a-b87b-4a23-98b6-05273643ab7a" />
 
+###   📊 ACTIVIDAD 3
+
+## 🧱 Transformaciones de fecha
+
+<img width="1013" height="829" alt="image" src="https://github.com/user-attachments/assets/e11312bb-b6fc-4dfb-917a-5e544b626592" />
+
+<img width="712" height="800" alt="image" src="https://github.com/user-attachments/assets/3b459e81-77f6-480a-a842-70411bd1508d" />
+
+<img width="1013" height="821" alt="image" src="https://github.com/user-attachments/assets/c672472e-cc51-44f0-8c2b-02f88a5e5fb9" />
+
+## 🧮 Resumen Mensual
+
+<img width="810" height="778" alt="image" src="https://github.com/user-attachments/assets/c8b5038d-0337-4591-abf6-1dfe06653339" />
+
+## 📥 Limpiesa de datos
+
+<img width="749" height="787" alt="image" src="https://github.com/user-attachments/assets/4a44876f-ad4e-4705-842a-81ef3febe8fe" />
+
+<img width="1341" height="869" alt="image" src="https://github.com/user-attachments/assets/53f2adbd-ee20-4818-9b9c-a798c878139e" />
+
+
+## 📊 Visualizacion Graficas en SQL
+<img width="727" height="781" alt="image" src="https://github.com/user-attachments/assets/eb505840-7f7c-40bb-8e27-0edbe21a6b75" />
+
+<img width="1884" height="768" alt="image" src="https://github.com/user-attachments/assets/526e0eed-2545-4dde-81e3-2f38badda343" />
+<img width="1888" height="841" alt="image" src="https://github.com/user-attachments/assets/0deb7f57-07f8-4cf7-a4ab-c23aa9e3ca47" />
+
+## 📊 Visualizacion con librerias 
+
+<img width="1144" height="819" alt="image" src="https://github.com/user-attachments/assets/3956e3d2-21ad-48e2-ae46-7e903915e6bb" />
+
+<img width="1227" height="759" alt="image" src="https://github.com/user-attachments/assets/9048827e-da62-49c8-b0b4-66b28d1b6ad4" />
+
+<img width="1285" height="825" alt="image" src="https://github.com/user-attachments/assets/58c67ea0-baec-4cfc-a6f7-e8dcdbc60dbf" />
+
+<img width="1193" height="774" alt="image" src="https://github.com/user-attachments/assets/b07b2041-83ae-4916-88ba-cf2e590cc6c2" />
+
+
+## 🧠 Lenguaje de trabajo
+
+<img width="1226" height="719" alt="image" src="https://github.com/user-attachments/assets/c7c935bb-f0bd-435d-b14a-4879dfff4b80" />
+
+<img width="1293" height="850" alt="image" src="https://github.com/user-attachments/assets/28cbe619-62b9-4853-9bd9-57086262d95e" />
+
+
+
+
+
 
 
 
