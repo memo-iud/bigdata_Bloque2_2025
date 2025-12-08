@@ -161,6 +161,8 @@ el sistema proporciona 15GB de almacenamiento finalizamos con click en (Create C
 
 ###   📊 ACTIVIDAD 3
 
+[![Ver video](https://img.shields.io/badge/Ver%20Video-Google%20Drive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1GT_f4G-h7qBL33IsmxbGrgJp9LfJ__b7/view?usp=drive_link)
+
 ## 🧱 Transformaciones de fecha
 
 <img width="1013" height="829" alt="image" src="https://github.com/user-attachments/assets/e11312bb-b6fc-4dfb-917a-5e544b626592" />
